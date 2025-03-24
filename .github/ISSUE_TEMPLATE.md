@@ -4,60 +4,54 @@ labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
 
-## Time Series
+## Sparse Auto
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[NdLinear Is All You Need for Representation Learning](http://arxiv.org/abs/2503.17353v1)** | 2025-03-21 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ensemble-core/NdLinear</p></details> |
-| **[Time-Series U-Net with Recurrence for Noise-Robust Imaging Photoplethysmography](http://arxiv.org/abs/2503.17351v1)** | 2025-03-21 | 14 Pages, 8 figures |
-| **[PA-CFL: Privacy-Adaptive Clustered Federated Learning for Transformer-Based Sales Forecasting on Heterogeneous Retail Data](http://arxiv.org/abs/2503.12220v2)** | 2025-03-21 |  |
-| **[DiTEC-WDN: A Large-Scale Dataset of Water Distribution Network Scenarios under Diverse Hydraulic Conditions](http://arxiv.org/abs/2503.17167v1)** | 2025-03-21 | <details><summary>Submi...</summary><p>Submitted to Nature Scientific Data. Huy Truong and Andr\'es Tello contributed equally to this work. For the dataset, see https://huggingface.co/datasets/rugds/ditec-wdn</p></details> |
-| **[ATHENA: An In-vehicle CAN Intrusion Detection Framework Based on Physical Characteristics of Vehicle Systems](http://arxiv.org/abs/2503.17067v1)** | 2025-03-21 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, 4 tables</p></details> |
-| **[Unitless Unrestricted Markov-Consistent SCM Generation: Better Benchmark Datasets for Causal Discovery](http://arxiv.org/abs/2503.17037v1)** | 2025-03-21 | <details><summary>4th C...</summary><p>4th Conference on Causal Learning and Reasoning</p></details> |
-| **[TRACE: Time SeRies PArameter EffiCient FinE-tuning](http://arxiv.org/abs/2503.16991v1)** | 2025-03-21 |  |
-| **[Survival Analysis with Machine Learning for Predicting Li-ion Battery Remaining Useful Life](http://arxiv.org/abs/2503.13558v2)** | 2025-03-21 |  |
-| **[Deep Learning for Human Locomotion Analysis in Lower-Limb Exoskeletons: A Comparative Study](http://arxiv.org/abs/2503.16904v1)** | 2025-03-21 | 26 pages, 6 figures |
-| **[Analysis and Fully Memristor-based Reservoir Computing for Temporal Data Classification](http://arxiv.org/abs/2403.01827v3)** | 2025-03-21 | <details><summary>22 pa...</summary><p>22 pages, 20 figures, Journal, Typo corrected and updated reference</p></details> |
-| **[The Gaussian central limit theorem for a stationary time series with infinite variance](http://arxiv.org/abs/2503.15894v2)** | 2025-03-21 | 22 pages |
-| **[MTBench: A Multimodal Time Series Benchmark for Temporal Reasoning and Question Answering](http://arxiv.org/abs/2503.16858v1)** | 2025-03-21 | 14 pages |
-| **[Specialized Foundation Models Struggle to Beat Supervised Baselines](http://arxiv.org/abs/2411.02796v2)** | 2025-03-21 | <details><summary>The f...</summary><p>The first two authors contributed equally. The order was determined by coin flip</p></details> |
-| **[Separation capacity of linear reservoirs with random connectivity matrix](http://arxiv.org/abs/2404.17429v3)** | 2025-03-21 |  |
-| **[Semi-Supervised End-To-End Contrastive Learning For Time Series Classification](http://arxiv.org/abs/2310.08848v2)** | 2025-03-21 | <details><summary>Submi...</summary><p>Submitted to NeurIPS 2023</p></details> |
+| **[Sparse Auto-Encoder Interprets Linguistic Features in Large Language Models](http://arxiv.org/abs/2502.20344v1)** | 2025-02-27 |  |
+| **[Tokenized SAEs: Disentangling SAE Reconstructions](http://arxiv.org/abs/2502.17332v1)** | 2025-02-24 |  |
+| **[Steering Knowledge Selection Behaviours in LLMs via SAE-Based Representation Engineering](http://arxiv.org/abs/2410.15999v3)** | 2025-02-09 | <details><summary>Accep...</summary><p>Accepted at NAACL 2025</p></details> |
+| **[Propositional Interpretability in Artificial Intelligence](http://arxiv.org/abs/2501.15740v1)** | 2025-01-27 |  |
+| **[Evaluating Synthetic Activations composed of SAE Latents in GPT-2](http://arxiv.org/abs/2409.15019v2)** | 2024-11-18 | <details><summary>Prese...</summary><p>Presented at the Attributing Model Behavior at Scale (ATTRIB) workshop at NeurIPS 2024</p></details> |
+| **[Tackling Polysemanticity with Neuron Embeddings](http://arxiv.org/abs/2411.08166v1)** | 2024-11-12 |  |
+| **[Tracking Universal Features Through Fine-Tuning and Model Merging](http://arxiv.org/abs/2410.12391v1)** | 2024-10-16 |  |
+| **[SparseAuto: An Auto-Scheduler for Sparse Tensor Computations Using Recursive Loop Nest Restructuring](http://arxiv.org/abs/2311.09549v3)** | 2024-08-19 |  |
+| **[Multi-level projection with exponential parallel speedup; Application to sparse auto-encoders neural networks](http://arxiv.org/abs/2405.02086v2)** | 2024-07-04 |  |
+| **[Pivotal Auto-Encoder via Self-Normalizing ReLU](http://arxiv.org/abs/2406.16052v1)** | 2024-06-23 |  |
+| **[Optimal Policy Sparsification and Low Rank Decomposition for Deep Reinforcement Learning](http://arxiv.org/abs/2403.06313v1)** | 2024-03-10 |  |
+| **[Multi-granularity Causal Structure Learning](http://arxiv.org/abs/2312.05549v2)** | 2023-12-12 | <details><summary>Accep...</summary><p>Accepted by the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI2024)</p></details> |
+| **[LightPath: Lightweight and Scalable Path Representation Learning](http://arxiv.org/abs/2307.10171v1)** | 2023-07-19 | <details><summary>This ...</summary><p>This paper has been accepted by ACM SIGKDD-23</p></details> |
+| **[Learning sparse auto-encoders for green AI image coding](http://arxiv.org/abs/2209.04448v1)** | 2022-09-09 |  |
+| **[Sparse Optimization for Unsupervised Extractive Summarization of Long Documents with the Frank-Wolfe Algorithm](http://arxiv.org/abs/2208.09454v1)** | 2022-08-19 | <details><summary>Accep...</summary><p>Accepted at the First Workshop on Simple and Efficient Natural Language Processing (SustaiNLP) at EMNLP 2020</p></details> |
 
-## Trajectory
+## Aha Moment
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MultiNash-PF: A Particle Filtering Approach for Computing Multiple Local Generalized Nash Equilibria in Trajectory Games](http://arxiv.org/abs/2410.05554v2)** | 2025-03-21 |  |
-| **[Physical Plausibility-aware Trajectory Prediction via Locomotion Embodiment](http://arxiv.org/abs/2503.17267v1)** | 2025-03-21 | <details><summary>CVPR2...</summary><p>CVPR2025. Project page: https://iminthemiddle.github.io/EmLoco-Page/</p></details> |
-| **[Joint Beamforming and Trajectory Optimization for Multi-UAV-Assisted Integrated Sensing and Communication Systems](http://arxiv.org/abs/2503.16915v1)** | 2025-03-21 | 5 pages, 1 figure |
-| **[Prioritized Trajectory Replay: A Replay Memory for Data-driven Reinforcement Learning](http://arxiv.org/abs/2306.15503v2)** | 2025-03-21 | <details><summary>Accep...</summary><p>Accepted by AAMAS 2024, see https://dl.acm.org/doi/10.5555/3635637.3662980</p></details> |
-| **[Parameter Adjustments in POMDP-Based Trajectory Planning for Unsignalized Intersections](http://arxiv.org/abs/2412.06405v2)** | 2025-03-20 | Submitted version |
-| **[MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance](http://arxiv.org/abs/2503.16421v1)** | 2025-03-20 |  |
-| **[Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors](http://arxiv.org/abs/2503.16275v1)** | 2025-03-20 |  |
-| **[PoseTraj: Pose-Aware Trajectory Control in Video Diffusion](http://arxiv.org/abs/2503.16068v1)** | 2025-03-20 | <details><summary>Code,...</summary><p>Code, data and project page: https://robingg1.github.io/Pose-Traj/</p></details> |
-| **[Statistical modeling of categorical trajectories with multivariate functional principal components](http://arxiv.org/abs/2502.09986v2)** | 2025-03-20 |  |
-| **[Tangles: Unpacking Extended Collision Experiences with Soma Trajectories](http://arxiv.org/abs/2503.15370v2)** | 2025-03-20 | 32 pages, 13 figures |
-| **[Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories](http://arxiv.org/abs/2412.05279v2)** | 2025-03-20 | <details><summary>CVPR ...</summary><p>CVPR 2025. Project page: https://susunghong.github.io/Perturb-and-Revise</p></details> |
-| **[SSTP: Efficient Sample Selection for Trajectory Prediction](http://arxiv.org/abs/2409.17385v2)** | 2025-03-20 |  |
-| **[Sparse canonical correlation analysis for multiple measurements with latent trajectories](http://arxiv.org/abs/2503.15140v1)** | 2025-03-19 | 19 pages, 13 figures |
-| **[Scalable Trajectory-User Linking with Dual-Stream Representation Networks](http://arxiv.org/abs/2503.15002v1)** | 2025-03-19 | <details><summary>The p...</summary><p>The paper has been accepted by AAAI 2025</p></details> |
-| **[Adaptive Trajectory Optimization for Task-Specific Human-Robot Collaboration](http://arxiv.org/abs/2409.13052v2)** | 2025-03-18 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, 1 table</p></details> |
+| **[Reinforcement Learning is all You Need](http://arxiv.org/abs/2503.09512v1)** | 2025-03-12 | 15 pages, 2 figures |
+| **[MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning](http://arxiv.org/abs/2503.07365v1)** | 2025-03-10 |  |
+| **[R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model](http://arxiv.org/abs/2503.05132v2)** | 2025-03-10 | 10 pages, 6 figures |
+| **[Abrupt and spontaneous strategy switches emerge in simple regularised neural networks](http://arxiv.org/abs/2302.11351v4)** | 2024-03-01 | 17 pages, 5 figures |
+| **[Breaking the Resolution limit in Photoacoustic Imaging using Positivity and Sparsity](http://arxiv.org/abs/2310.13952v1)** | 2023-10-21 |  |
+| **[Heat diffusion blurs photothermal images with increasing depth](http://arxiv.org/abs/2310.13943v1)** | 2023-10-21 |  |
+| **[What Exactly is an Insight? A Literature Review](http://arxiv.org/abs/2307.06551v1)** | 2023-07-13 | <details><summary>Techn...</summary><p>Technical report. arXiv admin note: text overlap with arXiv:2206.04767</p></details> |
+| **[Towards Understanding and Modeling Empathy for Use in Motivational Design Thinking](http://arxiv.org/abs/1907.12001v1)** | 2019-07-28 |  |
+| **[How intelligent are convolutional neural networks?](http://arxiv.org/abs/1709.06126v2)** | 2017-10-31 | <details><summary>add o...</summary><p>add one more experiment: common fate task; add link to github</p></details> |
 
-## Graph Neural Networks
+## reflection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Graph Masked Language Models](http://arxiv.org/abs/2503.05763v2)** | 2025-03-21 |  |
-| **[Multi-Aggregator Time-Warping Heterogeneous Graph Neural Network for Personalized Micro-Video Recommendation](http://arxiv.org/abs/2501.02666v2)** | 2025-03-21 |  |
-| **[Robustness of deep learning classification to adversarial input on GPUs: asynchronous parallel accumulation is a source of vulnerability](http://arxiv.org/abs/2503.17173v1)** | 2025-03-21 | <details><summary>Under...</summary><p>Under review at EuroPar 2025</p></details> |
-| **[Enhancing Steering Estimation with Semantic-Aware GNNs](http://arxiv.org/abs/2503.17153v1)** | 2025-03-21 | <details><summary>Submi...</summary><p>Submitted to ICCV 2025</p></details> |
-| **[Vul-LMGNNs: Fusing language models and online-distilled graph neural networks for code vulnerability detection](http://arxiv.org/abs/2404.14719v2)** | 2025-03-21 | 16 pages, 7 figures |
-| **[TeMP-TraG: Edge-based Temporal Message Passing in Transaction Graphs](http://arxiv.org/abs/2503.16901v1)** | 2025-03-21 |  |
-| **[Ordered Topological Deep Learning: a Network Modeling Case Study](http://arxiv.org/abs/2503.16746v1)** | 2025-03-20 |  |
-| **[ATOM: A Framework of Detecting Query-Based Model Extraction Attacks for Graph Neural Networks](http://arxiv.org/abs/2503.16693v1)** | 2025-03-20 |  |
-| **[ContextGNN goes to Elliot: Towards Benchmarking Relational Deep Learning for Static Link Prediction (aka Personalized Item Recommendation)](http://arxiv.org/abs/2503.16661v1)** | 2025-03-20 |  |
-| **[Graph-Guided Textual Explanation Generation Framework](http://arxiv.org/abs/2412.12318v3)** | 2025-03-20 |  |
-| **[Assessment of Spatio-Temporal Predictors in the Presence of Missing and Heterogeneous Data](http://arxiv.org/abs/2302.01701v2)** | 2025-03-20 |  |
-| **[Development of a graph neural network surrogate for travel demand modelling](http://arxiv.org/abs/2408.07726v2)** | 2025-03-20 |  |
-| **[Theoretical Insights into Line Graph Transformation on Graph Learning](http://arxiv.org/abs/2410.16138v2)** | 2025-03-20 | <details><summary>21 pa...</summary><p>21 pages, code available at https://github.com/lukeyf/graphs-and-lines</p></details> |
-| **[Beyond Local Selection: Global Cut Selection for Enhanced Mixed-Integer Programming](http://arxiv.org/abs/2503.15847v1)** | 2025-03-20 |  |
-| **[GRE^2-MDCL: Graph Representation Embedding Enhanced via Multidimensional Contrastive Learning](http://arxiv.org/abs/2409.07725v2)** | 2025-03-20 | <details><summary>I am ...</summary><p>I am requesting the withdrawal of my paper due to errors identified in the methodology and experimental results. Specifically, there are inaccuracies in the analysis section that may lead to misleading conclusions</p></details> |
+| **[Weakly Supervised Segmentation of Hyper-Reflective Foci with Compact Convolutional Transformers and SAM2](http://arxiv.org/abs/2501.05933v2)** | 2025-03-21 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, accepted at German Conference on Medical Image Computing 2025</p></details> |
+| **[Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training](http://arxiv.org/abs/2501.11425v2)** | 2025-03-19 |  |
+| **[Road Markings Segmentation from LIDAR Point Clouds using Reflectivity Information](http://arxiv.org/abs/2211.01105v2)** | 2025-03-18 |  |
+| **[LR$^2$Bench: Evaluating Long-chain Reflective Reasoning Capabilities of Large Language Models via Constraint Satisfaction Problems](http://arxiv.org/abs/2502.17848v2)** | 2025-03-17 | <details><summary>Submi...</summary><p>Submitted to ACL ARR 2025 February</p></details> |
+| **[Reflect-DiT: Inference-Time Scaling for Text-to-Image Diffusion Transformers via In-Context Reflection](http://arxiv.org/abs/2503.12271v1)** | 2025-03-15 | 17 pages, 9 figures |
+| **[V-Stylist: Video Stylization via Collaboration and Reflection of MLLM Agents](http://arxiv.org/abs/2503.12077v1)** | 2025-03-15 | CVPR 2025 |
+| **[SFDM: Robust Decomposition of Geometry and Reflectance for Realistic Face Rendering from Sparse-view Images](http://arxiv.org/abs/2312.06085v2)** | 2025-03-15 | CVPR25 |
+| **[Rapid analysis of point-contact Andreev reflection spectra via machine learning with adaptive data augmentation](http://arxiv.org/abs/2503.10040v1)** | 2025-03-13 | 18 pages, 3 figures |
+| **[CoRe^2: Collect, Reflect and Refine to Generate Better and Faster](http://arxiv.org/abs/2503.09662v1)** | 2025-03-12 |  |
+| **[Long-horizon Visual Instruction Generation with Logic and Attribute Self-reflection](http://arxiv.org/abs/2503.13500v1)** | 2025-03-12 | ICLR 2025 |
+| **[Automatic Robotic-Assisted Diffuse Reflectance Spectroscopy Scanning System](http://arxiv.org/abs/2503.08470v1)** | 2025-03-11 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Robotics and Automation (ICRA) 2025</p></details> |
+| **[In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents](http://arxiv.org/abs/2503.08026v1)** | 2025-03-11 |  |
+| **[Reflection-Window Decoding: Text Generation with Selective Refinement](http://arxiv.org/abs/2502.03678v2)** | 2025-03-10 |  |
+| **[RoboReflect: A Robotic Reflective Reasoning Framework for Grasping Ambiguous-Condition Objects](http://arxiv.org/abs/2501.09307v2)** | 2025-03-10 |  |
+| **[Explicit vs. Implicit: Investigating Social Bias in Large Language Models through Self-Reflection](http://arxiv.org/abs/2501.02295v2)** | 2025-03-07 |  |
 

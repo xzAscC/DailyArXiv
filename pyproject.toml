@@ -1,0 +1,11 @@
+[project]
+name = "dailyarxiv"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "easydict>=1.13",
+    "feedparser>=6.0.11",
+    "pytz>=2025.1",
+]
